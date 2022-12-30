@@ -1,0 +1,56 @@
+:root {
+    --dark: #040D1A;
+    --light-dark: #14273E;
+    --blue: #456685;
+    --light-blue: #B4C4D5;
+    --light: #FCF8F6;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+.jp-background{
+    background-color: var(--light-blue);
+}
+
+.jp-header{
+    max-width: 100%;
+    height: 50px;
+    display: block;
+    padding: 10px 20px;
+}
+
+.jp-logo-container{
+    height: 100%;
+    float: left;
+}
+
+.jp-logo-container img{
+    height: 100%;
+}
+
+.jp-navigation{
+    float: right;
+    height: 100%;
+}
+
+.jp-navigation a{
+    height: 100%;
+    float: left;
+    display: table;
+    padding: 0px 15px;
+}
+
+.jp-navigation a:last-child{
+    padding-right: 0px;
+}
+.jp-navigation a li{
+    display: table-cell;
+    vertical-align: middle;
+    color: var(--blue);
+    font-family: 'Quicksand', light;
+}
