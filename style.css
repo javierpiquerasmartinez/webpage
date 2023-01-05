@@ -159,3 +159,15 @@ body{
     letter-spacing: -0.45vw;
     font-size: 5.5vw;
 }
+
+@media screen and (max-width:700px) {
+    .jp-intro{
+        font-size: 20px;
+    }
+    .jp-name{
+        font-size: 65px;
+    }
+    .jp-slogan{
+        font-size: 40px;
+    }
+}
