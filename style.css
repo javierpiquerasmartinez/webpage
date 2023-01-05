@@ -133,7 +133,7 @@ body{
 }
 .jp-main{
     display: flex;
-    margin-top: 200px;
+    margin-top: 15vw;
 }
 .jp-main-margin{
     flex: 1 1 0;
