@@ -145,17 +145,17 @@ body{
 .jp-intro{
     color: var(--light);
     font-weight: 300;
-    font-size: 25pt;
+    font-size: 2.5vw;
 }
 .jp-name{
     color: var(--light-dark);
     font-weight: 700;
-    letter-spacing: -7px;
-    font-size: 110pt;
+    letter-spacing: -0.45vw;
+    font-size: 10vw;
 }
 .jp-slogan{
     color: var(--blue);
     font-weight: 600;
-    letter-spacing: -7px;
-    font-size: 84pt;
+    letter-spacing: -0.45vw;
+    font-size: 5.5vw;
 }
