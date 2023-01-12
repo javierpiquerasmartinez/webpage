@@ -128,30 +128,24 @@ body{
 .jp-burger-line-toggle .line3{
     transform: rotate(45deg) translate(-5px, -7px);    
 }
+
 .jp-body{
-    margin-left: 85px;
-}
-.jp-main{
-    display: flex;
-    margin-top: 15vw;
-}
-.jp-main-margin{
-    flex: 1 1 0;
-}
-.jp-main-content{
-    flex: 6 1 0;
+    margin-left: 20vw;    
     font-family: 'Quicksand', sans-serif;
+    margin-top: 9vw;
+    margin-right: 9vw;
 }
+
 .jp-intro{
     color: var(--light);
     font-weight: 300;
-    font-size: 2.5vw;
+    font-size: 1.7vw;
 }
 .jp-name{
     color: var(--light-dark);
     font-weight: 700;
     letter-spacing: -0.45vw;
-    font-size: 10vw;
+    font-size: 7vw;
 }
 .jp-slogan{
     color: var(--blue);
